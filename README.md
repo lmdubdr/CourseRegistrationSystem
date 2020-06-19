@@ -6,3 +6,4 @@ JLU_CCST_2020软件工程课程设计
 ### 概要设计/详细设计
 ### 测试文档
 # PHP+MySQL
+code解压后放在phpstudy_pro/WWW下
